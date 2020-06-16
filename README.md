@@ -1,2 +1,3 @@
-# vr-xperts-choobie
-VR Handset Website
+# vr-xperts-headset-website
+
+VR Headset Website
